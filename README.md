@@ -2,7 +2,7 @@
 
 ### ✏️ Introdução do Javascript (Javascript Introduction) 📚⏳🤔😉
 
-Neste repositório contém liçoes praticas relacionadas a coleções em Javascript. (This repository contains practical lessons related to Map, Filter and Reduce in Javascript.)
+Neste repositório contém liçoes praticas relacionadas a coleções em Javascript. (This repository contains practical lessons related to Javascript collections.)
 
 ### Links úteis (Useful links)
 + https://dio.me (Bootcamp in mode Courses)
